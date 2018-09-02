@@ -43,11 +43,11 @@ Search for 'Configure Start pages' -> Enable it and type <about:blank> (include 
 
 # Skipping Windows 10 login screen when using a microsoft account
 What are the advantages of doing this?  
-- You don't have to type your password on your desktop computer at home
-- Will still keep password protection for remote access
+- You don't have to type your password on your desktop computer at home  
+- Will still keep password protection for remote access  
 
-How to do it:
-## Disabling password login
-Search for 'netplwiz' or use WIN+R and type 'netplwiz'
-Uncheck 'Users must enter a user name and password to use this computer'
-Fill in your microsoft account password twice and restart
+How to do it:  
+## Disabling password login  
+Search for 'netplwiz' or use WIN+R and type 'netplwiz'  
+Uncheck 'Users must enter a user name and password to use this computer'  
+Fill in your microsoft account password twice and restart  
