@@ -37,3 +37,17 @@ Search for 'Allow web content on New Tab page' -> disabled it
 ## Setting custom start page
 Still in the group policy editor microsoft edge page  
 Search for 'Configure Start pages' -> Enable it and type <about:blank> (include the brackets) in the empty box under options, or type a desired webpage like <google.com>  
+
+
+
+
+# Skipping Windows 10 login screen when using a microsoft account
+What are the advantages of doing this?  
+- You don't have to type your password on your desktop computer at home
+- Will still keep password protection for remote access
+
+How to do it:
+## Disabling password login
+Search for 'netplwiz' or use WIN+R and type 'netplwiz'
+Uncheck 'Users must enter a user name and password to use this computer'
+Fill in your microsoft account password twice and restart
